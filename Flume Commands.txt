@@ -1,0 +1,2 @@
+# 1st Ensure you get into the directory by ---> cd /usr/lib/flume-ng
+# bin/flume-ng agent -n TwitterAgent -c conf -f /usr/lib/flume-ng/conf/flume.conf -Dflume.root.logger=DEBUG,console 
